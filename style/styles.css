@@ -17,8 +17,8 @@ h2 {
 }
 .section1 {
     font-size: 40px;
-    /* display: flex; */
-    text-align: center;
+    display:flex
+   margin: auto;
 }
 
 .progress-bar {
